@@ -5,10 +5,10 @@
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : true,
-"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -27,8 +27,8 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-7724389513565902/3522557082",
+"ADMOB_INTER" : "ca-app-pub-7724389513565902/2209475415",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
